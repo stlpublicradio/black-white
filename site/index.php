@@ -289,6 +289,25 @@
     </section>
   </div>
 </footer>
-  <script src="/assets/carousel.js"></script>
+
+<script>
+function setCarouselHeight(id) {
+  // Find the height of the tallest slide
+  var tallestSlide = 0
+
+  $(id+' .item').each(function() {
+    var height = $(this).height()
+    if (height > tallestSlide) tallestSlide = height
+  })
+  
+  // set all slide heights
+  $(id+' .carousel-content').each(function() {
+    $(this).css('height', tallestSlide+'px')
+  })
+}
+
+setCarouselHeight('#carousel-example');
+</script>
+
 </body>
 </html>
