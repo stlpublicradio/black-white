@@ -2,11 +2,11 @@
 <html>
 <head>
   <title>Rule of Law vs. Civil Disobedience</title>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-head-embed.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-head-embed.php');?>
 </head>
 
 <body>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-header.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-header.php');?>
 
 <!--Main Content Begins-->
 <div class="container">

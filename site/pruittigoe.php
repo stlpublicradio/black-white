@@ -2,11 +2,11 @@
 <html>
 <head>
   <title>Pruitt-Igoe</title>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-head-embed.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-head-embed.php');?>
 </head>
 
 <body>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-header.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-header.php');?>
 
 <!--Main Content Begins-->
 <div class="container">
@@ -40,7 +40,7 @@
   <div class="col-md-12">
       <div class="col-sm-6 bw-photos">
             <h3>Images</h3>
-            <img src="/projects/black-white/assets/img/pruitt.jpg" alt="Pruitt-Igoe buildings">
+            <img src="/assets/img/pruitt.jpg" alt="Pruitt-Igoe buildings">
           </div>
           <div class="col-sm-6">
             <h3>Links</h3>

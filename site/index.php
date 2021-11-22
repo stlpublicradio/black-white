@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>St. Louis History in Black &amp; White</title>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-head-embed.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-head-embed.php');?>
 <style>
 #carousel-height-hack .carousel-content {
   height: 350px !important;
@@ -18,7 +18,7 @@
 </head>
 
 <body>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-header.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-header.php');?>
 
 <!--Main Content Begins-->
 <div class="container">
@@ -214,6 +214,6 @@
   <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/footer.php'; ?>
 
 
-  <script src="/projects/black-white/assets/carousel.js"></script>
+  <script src="/assets/carousel.js"></script>
 </body>
 </html>

@@ -2,11 +2,11 @@
 <html>
 <head>
   <title>Places</title>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-head-embed.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-head-embed.php');?>
 </head>
 
 <body>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-header.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-header.php');?>
 
 <!--Main Content Begins-->
 <div class="container">
@@ -14,7 +14,7 @@
       <ol class="breadcrumb col-xs-12">
               <li><a href="/">Home </a><i class="fa fa-chevron-right"></i></li>
               <li><a href="https://news.stlpublicradio.org/programs">Programs </a><i class="fa fa-chevron-right"></i></li>
-              <li><a href="/projects/black-white/">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right"></i></li>
+              <li><a href="/">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right"></i></li>
               <li class="active">Places</li>
             </ol>
         <div class="col-md-12 top">
@@ -25,7 +25,7 @@
                   <div class="col-md-12">
           <div class="col-md-4">
                       <ul class="nav nav-pills nav-stacked podcast-pills">
-                          <li role="presentation" class="active"><a href="/projects/black-white/"><i class="fa fa-home" style="padding-right:.5em;"></i>Table of Contents</a></li>
+                          <li role="presentation" class="active"><a href="/"><i class="fa fa-home" style="padding-right:.5em;"></i>Table of Contents</a></li>
                           <li role="presentation"><a href="josephine-baker.php">Pruitt-Igoe</a></li>
                           <li role="presentation"><a href="exodusters.php">Josephine Baker: 1906-1975</a></li>
                           <li role="presentation"><a href="racialcleansing.php">Gail Milissa Grant, The Family: 1906-1975</a></li>

@@ -2,11 +2,11 @@
 <html>
 <head>
   <title>Ferguson</title>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-head-embed.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-head-embed.php');?>
 </head>
 
 <body>
-<?php include($_SERVER['DOCUMENT_ROOT'].'/projects/black-white/includes/bw-header.php');?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-header.php');?>
 
 <!--Main Content Begins-->
 <div class="container">
@@ -14,7 +14,7 @@
        <ol class="breadcrumb col-xs-12">
               <li><a href="/">Home </a><i class="fa fa-chevron-right"></i></li>
               <li><a href="https://news.stlpublicradio.org/programs">Programs </a><i class="fa fa-chevron-right"></i></li>
-              <li><a href="/projects/black-white/">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right"></i></li>
+              <li><a href="/">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right"></i></li>
               <li class="active">Ferguson</li>
             </ol>
         <div class="col-md-12 top">
