@@ -40,7 +40,7 @@
   <div class="col-md-12">
       <div class="col-sm-6 bw-photos">
             <h3>Images</h3>
-            <img src="/assets/img/pruitt.jpg" alt="Pruitt-Igoe buildings">
+            <img src="/assets/pruitt.jpg" alt="Pruitt-Igoe buildings">
           </div>
           <div class="col-sm-6">
             <h3>Links</h3>

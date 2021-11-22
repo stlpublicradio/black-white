@@ -14,7 +14,7 @@
 <itunes:name>St. Louis Public Radio</itunes:name>
 <itunes:email>web@stlpr.org</itunes:email>
 </itunes:owner>
-<itunes:image href="/images/homepagead-stlhistbw.jpg" />
+<itunes:image href="/assets/homepagead-stlhistbw.jpg" />
 <itunes:category text="Society and Culture">
 <itunes:category text="History"/>
 </itunes:category>
