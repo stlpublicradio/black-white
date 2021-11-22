@@ -8,8 +8,8 @@
 <body>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-header.php');?>
 
-<!--Main Content Begins-->
-<div class="container">
+
+<main class="container">
     <div class="row">
        <ol class="breadcrumb col-xs-12">
               <li><a href="/">Home </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
@@ -94,8 +94,9 @@
          </div>
       </div>
   </div>
-<hr>
-</div>
+  <hr>
+</main>
+
 
 <footer id="footer">
   <div class="footer-content">
