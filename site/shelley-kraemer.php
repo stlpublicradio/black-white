@@ -91,7 +91,6 @@
   </div>
 <hr>
 </div>
-          <!--  Main Content Ends      -->
 
 <!--FOOTER-->
 <?php include $_SERVER['DOCUMENT_ROOT'].'/includes/footer.php'; ?>
