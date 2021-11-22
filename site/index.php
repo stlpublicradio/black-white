@@ -27,7 +27,7 @@
               <li><a href="https://news.stlpublicradio.org/programs">Programs </a><i class="fa fa-chevron-right"></i></li>
               <li class="active">St. Louis History in Black &amp; White</li>
             </ol>
-        <h3 class="bw-quote" style="color:#777777"><em>With this collection of stories, curated from St. Louis on the Air conversations, we present an oral history of civil rights, the black experience, and race relations in St. Louis from 1847 to 2016.</em></h3>
+        <h3 style="color:#777777; clear: both;"><em>With this collection of stories, curated from St. Louis on the Air conversations, we present an oral history of civil rights, the black experience, and race relations in St. Louis from 1847 to 2016.</em></h3>
          <hr class="hidden-xs hidden-sm">
          <p>You can explore this collection in several ways: through our timeline below, which highlights key events; through our menus above, which direct you to lists of episodes, photos, and additional resources by theme; and through our Soundcloud playlist, which lets you listen to the project chronologically. To read more about the project, read Don Marsh's introduction below the timeline.</p>
          <br>
