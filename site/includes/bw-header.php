@@ -1,11 +1,10 @@
-<div class="row stlbw-head-include">
-
+<header class="row stlbw-head-include">
   <section id="stlbw-header">
     <div class="redbar">
       <div class="barcontent">
         <ul>
           <li id="bar-logo">
-            <a href="">
+            <a href="https://stlpr.org">
               <img
                 src="https://stlpr.org/logos/stlpr-white"
                 alt="St. Louis Public Radio"
@@ -20,7 +19,7 @@
     </div>
   </section>
 
-  <div class="nav-wrapper hidden-xs" id="menu-pills">
+  <nav class="nav-wrapper hidden-xs" id="menu-pills">
     <div class="container">
       <ul class="nav nav-pills nav-justified">
         <li role="presentation" style="margin-top: 2px"><a href="index.php">Home</a></li>
@@ -30,7 +29,7 @@
         <li role="presentation"><a href="ferguson.php">Ferguson</a></li>
       </ul>
     </div>
-  </div>
+  </nav>
 
   <div class="nav-wrapper hidden-sm hidden-md hidden-lg hidden-xl" id="menu-pills">
     <div class="container">
@@ -50,5 +49,4 @@
       </div>
     </div>
   </div>
-
-</div>
+</header>
