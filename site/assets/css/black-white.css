@@ -126,7 +126,7 @@ h1 {
 }
 
 #stlbw-header {
-  background-image: url("../images/banner-large-screens");
+  background-image: url("../images/banner-large-screens.png");
   background-color: #D8D8D8;
   background-repeat: no-repeat;
   background-position: center top 32px;
@@ -136,7 +136,7 @@ h1 {
 
 @media (max-width: 767px) {
   #stlbw-header {
-    background-image: url("../images/banner-small-screens");
+    background-image: url("../images/banner-small-screens.png");
     background-position: center top 32px;
   }
 }
