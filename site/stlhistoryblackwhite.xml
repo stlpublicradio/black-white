@@ -1,388 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-
 <channel>
-<title>St. Louis History in Black and White</title>
-<link>/programs/black-white/</link>
-<language>en-us</language>
-<copyright>2011, St. Louis Public Radio</copyright>
-<itunes:subtitle>From Dred Scott to Barack Obama</itunes:subtitle>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:summary>A curation of conversations that aired on St. Louis Public Radio between 2005 and 2010 with historians, authors, and first-person interviews with people who lived through the civil rights movement. For the most part, the focus is not on well-known celebrities of the movement, but rather on average people--black and white--who worked hard to eradicate the formal and informal barriers to integration. The intention is to enlighten blacks and whites on history with which they may not be familiar and which will inspire greater understanding and harmony between the races in our community today.</itunes:summary>
-<description>Interviews with historians, authors, and individuals who were part of the civil rights movement.</description>
-<itunes:owner>
-<itunes:name>St. Louis Public Radio</itunes:name>
-<itunes:email>web@stlpr.org</itunes:email>
-</itunes:owner>
-<itunes:image href="/assets/black-white-homepage-ad.jpg" />
-<itunes:category text="Society and Culture">
-<itunes:category text="History"/>
-</itunes:category>
-<itunes:category text="Education"/>
+  <title>St. Louis History in Black and White</title>
+  <link>/</link>
+  <language>en-us</language>
+  <copyright>2011, St. Louis Public Radio</copyright>
+  <itunes:subtitle>From Dred Scott to Barack Obama</itunes:subtitle>
+  <itunes:author>St. Louis Public Radio</itunes:author>
+  <itunes:summary>A curation of conversations that aired on St. Louis Public Radio between 2005 and 2010 with historians, authors, and first-person interviews with people who lived through the civil rights movement. For the most part, the focus is not on well-known celebrities of the movement, but rather on average people--black and white--who worked hard to eradicate the formal and informal barriers to integration. The intention is to enlighten blacks and whites on history with which they may not be familiar and which will inspire greater understanding and harmony between the races in our community today.</itunes:summary>
+  <description>Interviews with historians, authors, and individuals who were part of the civil rights movement.</description>
 
-<item>
-<title>Dred Scott Case</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1847-1858</itunes:subtitle>
-<itunes:summary>The Dred Scott decision by the U.S. Supreme Court in 1857 was the culmination of more than a decade of litigation to win their freedom by slaves Dred and Harriet Scott. Interviews with Professor of History of Law david Konig and Professor of African american Studies John Baugh.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/1DredScottCaseMono.mp3" length="12.8 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/1DredScottCaseMono.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:14:02</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, slavery, Dred Scott, law, African American, black</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <itunes:owner>
+    <itunes:name>St. Louis Public Radio</itunes:name>
+    <itunes:email>web@stlpr.org</itunes:email>
+  </itunes:owner>
+  <itunes:image href="/assets/black-white-homepage-ad.jpg" />
+  <itunes:category text="Society and Culture">
+    <itunes:category text="History" />
+  </itunes:category>
+  <itunes:category text="Education" />
 
-<item>
-<title>Dred and Harriet Scott Backstory</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1857-2010</itunes:subtitle>
-<itunes:summary>New information reveals that Harriet Scott, who was involved in the original suit for freedom with her husband, lived for a decade after the Civil War. The Scotts had two children. Eliza and Lizzie were given the protection of anonymity during the fractious period during which the Scotts sought emancipation. Genealogist Ruth Ann Hager of the St. Louis County Library did the research, which is outlined in her book Dred and Harriet ScottTheir Family Story.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/2DredScottBackstoryMono.mp3" length="12.8 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/2DredScottBackstoryMono.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:08:57</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, slavery, Dred Scott, Harriet Scott, African American, black</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Dred Scott Case</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1847-1858</itunes:subtitle>
+    <itunes:summary>The Dred Scott decision by the U.S. Supreme Court in 1857 was the culmination of more than a decade of litigation to win their freedom by slaves Dred and Harriet Scott. Interviews with Professor of History of Law david Konig and Professor of African american Studies John Baugh.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/1DredScottCaseMono.mp3" length="12.8 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/1DredScottCaseMono.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:14:02</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, slavery, Dred Scott, law, African American, black</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Exodusters</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1879-1880</itunes:subtitle>
-<itunes:summary>During the years immediately following Reconstruction, 1879 and 1880, there was a massive migration of formerly enslaved people from the South north to Kansas. Kansas was a common destination because it was a free state, it welcomed settlement by people of all races, and held symbolic importance as the home state of abolitionist John Brown. It was an exodus and the migrants who participated were called Exodusters. More than forty thousand mostly poor, uneducated southern Black Americans migrated to Kansas. Half of them came through St. Louis where they were aided by the local African American community and largely reviled by the white St. Louis civic and political establishment. It was all chronicled in the book The African American Community and the Exodusters written by Professor Bryan Jack of Winston-Salem State University in North Carolina.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/3ExodustersMono.mp3" length="10.3 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/3ExodustersMono.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:11:15</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, slavery, exodusters, African American, black, Kansas, South, Reconstruction</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Dred and Harriet Scott Backstory</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1857-2010</itunes:subtitle>
+    <itunes:summary>New information reveals that Harriet Scott, who was involved in the original suit for freedom with her husband, lived for a decade after the Civil War. The Scotts had two children. Eliza and Lizzie were given the protection of anonymity during the fractious period during which the Scotts sought emancipation. Genealogist Ruth Ann Hager of the St. Louis County Library did the research, which is outlined in her book Dred and Harriet ScottTheir Family Story.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/2DredScottBackstoryMono.mp3" length="12.8 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/2DredScottBackstoryMono.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:08:57</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, slavery, Dred Scott, Harriet Scott, African American, black</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Sundown Towns</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1890-1910</itunes:subtitle>
-<itunes:summary>One of the most humiliating forms of discrimination was Sundown Towns, communities that systematically excluded Black Americans from being out after dark. There is still some evidence them. James Loewen, Professor Emeritus of Sociology at the University of Vermont has researched the issue extensively, and is the author of Sundown Towns: A Hidden Dimension of American Racism, the first book ever written on the subject. </itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/4SundownTownsMono2.mp3" length="6.21 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/4SundownTownsMono2.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:06:47</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, slavery, Sundown Towns, African American, black, curfew, discrimination</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Exodusters</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1879-1880</itunes:subtitle>
+    <itunes:summary>During the years immediately following Reconstruction, 1879 and 1880, there was a massive migration of formerly enslaved people from the South north to Kansas. Kansas was a common destination because it was a free state, it welcomed settlement by people of all races, and held symbolic importance as the home state of abolitionist John Brown. It was an exodus and the migrants who participated were called Exodusters. More than forty thousand mostly poor, uneducated southern Black Americans migrated to Kansas. Half of them came through St. Louis where they were aided by the local African American community and largely reviled by the white St. Louis civic and political establishment. It was all chronicled in the book The African American Community and the Exodusters written by Professor Bryan Jack of Winston-Salem State University in North Carolina.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/3ExodustersMono.mp3" length="10.3 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/3ExodustersMono.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:11:15</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, slavery, exodusters, African American, black, Kansas, South, Reconstruction</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Racial Cleansing</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>How Whites Drove Blacks Out of Town in America</itunes:subtitle>
-<itunes:summary>Ethnic cleansing is not something that is peculiar to Nazi Germany, Rwanda or Bosnia. American history shows that many communities here are guilty of it too. These communities banished their black citizensoften violently. Many of these communities remain virtually all white to this day. Brothers Charles and James Brown traced their family tree to Pierce City, Missouri, and learned their ancestors had been forced out at gunpoint. Marco Williams produced a documentary titled Banished: How Whites Drove Blacks out of Town in America.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/5RacialCleansingMono.mp3" length="7.68 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/5RacialCleansingMono.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:08:23</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, racial cleansing, African American, black, discrimination</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Sundown Towns</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1890-1910</itunes:subtitle>
+    <itunes:summary>One of the most humiliating forms of discrimination was Sundown Towns, communities that systematically excluded Black Americans from being out after dark. There is still some evidence them. James Loewen, Professor Emeritus of Sociology at the University of Vermont has researched the issue extensively, and is the author of Sundown Towns: A Hidden Dimension of American Racism, the first book ever written on the subject. </itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/4SundownTownsMono2.mp3" length="6.21 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/4SundownTownsMono2.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:06:47</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, slavery, Sundown Towns, African American, black, curfew, discrimination</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>East St. Louis Race Riot</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>July 2, 1917</itunes:subtitle>
-<itunes:summary>The bloodiest and ugliest of the numerous race riots in many of the cities in the industrial North took place in East St. Louis on July 2, 1917. Historian-journalist Harper Barnes detailed the incident in his book Never Been A Time.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/6-east-stl-race-riots.mp3" length="14.3 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/6-east-stl-race-riots.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:15:38</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, labor, migration</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Racial Cleansing</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>How Whites Drove Blacks Out of Town in America</itunes:subtitle>
+    <itunes:summary>Ethnic cleansing is not something that is peculiar to Nazi Germany, Rwanda or Bosnia. American history shows that many communities here are guilty of it too. These communities banished their black citizensoften violently. Many of these communities remain virtually all white to this day. Brothers Charles and James Brown traced their family tree to Pierce City, Missouri, and learned their ancestors had been forced out at gunpoint. Marco Williams produced a documentary titled Banished: How Whites Drove Blacks out of Town in America.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/5RacialCleansingMono.mp3" length="7.68 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/5RacialCleansingMono.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:08:23</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, racial cleansing, African American, black, discrimination</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Josephine Baker</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1906-1975</itunes:subtitle>
-<itunes:summary>World renowned singer-dancer-actress Josephine Baker was born in St. Louis in 1906.For the next 69 years of her life, she knew the despair of poverty, fame on the stage, heroism in war, the sting of discrimination and the power of inclusion. On the occasion of her centennial, we talked about Baker with Professor of African American Studies at USC-San Diego Benetta Jules-Rosette, the author of Two LovesJosephine Baker in Art and Life; Mary Strauss, owner of the Fox Theater; Olivia Lahs-Gonzalez, Curator of the Josephine Baker Centennial Exhibit at the Sheldon Art Gallery.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/7-josephine-baker.mp3" length="9.76 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/7-josephine-baker.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:10:40</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Josephine Baker, descrimination, singer</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>East St. Louis Race Riot</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>July 2, 1917</itunes:subtitle>
+    <itunes:summary>The bloodiest and ugliest of the numerous race riots in many of the cities in the industrial North took place in East St. Louis on July 2, 1917. Historian-journalist Harper Barnes detailed the incident in his book Never Been A Time.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/6-east-stl-race-riots.mp3" length="14.3 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/6-east-stl-race-riots.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:15:38</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, labor, migration</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Gail Milissa Grant</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>One Family's Experience From 1906-1975</itunes:subtitle>
-<itunes:summary>St. Louis attorney David M. Grant found ways to break barriers to equal rights. His daughter, Gail Milissa Grant, wrote about his life and her own in St. Louis in her book At the Elbows of my EldersOne Familys Journey Toward Civil Rights.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/8-gail-melissa-grant-1.mp3" length="10.9 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/8-gail-melissa-grant-1.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:11:58</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, attorney, descrimination, Gail Milissa Grant, David Grant</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Josephine Baker</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1906-1975</itunes:subtitle>
+    <itunes:summary>World renowned singer-dancer-actress Josephine Baker was born in St. Louis in 1906.For the next 69 years of her life, she knew the despair of poverty, fame on the stage, heroism in war, the sting of discrimination and the power of inclusion. On the occasion of her centennial, we talked about Baker with Professor of African American Studies at USC-San Diego Benetta Jules-Rosette, the author of Two LovesJosephine Baker in Art and Life; Mary Strauss, owner of the Fox Theater; Olivia Lahs-Gonzalez, Curator of the Josephine Baker Centennial Exhibit at the Sheldon Art Gallery.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/7-josephine-baker.mp3" length="9.76 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/7-josephine-baker.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:10:40</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Josephine Baker, descrimination, singer</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>The Black Soldier's Experience in World War II</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1940-1945</itunes:subtitle>
-<itunes:summary>Much has been written about black military units in this country dating back to the days of the Buffalo Soldiers after the Civil War through the Tuskegee Airmen of World War Two. Less has been written about the experience of individual black soldiers who played a significant role in Europe and the Pacific in World War Two before the Armed Services were integrated in 1948. University of Iowa Professor Jeffrey Copeland has written about one such soldier, Inman Perkins, a teacher at Sumner High when he was drafted at the start of the war. Copeland recounts Perkins experiences, which mirrored those of many black servicemen, in his book, Inmans War: A Soldiers Story of Life in a Colored Battalion in World War Two.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/9-black-soldiers-ww2.mp3" length="12.2 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/9-black-soldiers-ww2.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:13:20</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, World War II, descrimination, soldier</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Gail Milissa Grant</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>One Family's Experience From 1906-1975</itunes:subtitle>
+    <itunes:summary>St. Louis attorney David M. Grant found ways to break barriers to equal rights. His daughter, Gail Milissa Grant, wrote about his life and her own in St. Louis in her book At the Elbows of my EldersOne Familys Journey Toward Civil Rights.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/8-gail-melissa-grant-1.mp3" length="10.9 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/8-gail-melissa-grant-1.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:11:58</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, attorney, descrimination, Gail Milissa Grant, David Grant</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Shelley vs. Kraemer</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1945-1948</itunes:subtitle>
-<itunes:summary>In spite of Constitutional protections, Black Americans were unable to live where they chose because of the practice called restrictive covenants. It took a landmark St. Louis case almost a century after the 14th Amendment to fracture the practice of these covenants which was in widespread use in the city. It was known as the Shelley vs. Kraemer case and was detailed by author/historian Jeffrey Copeland, the author of Olivias Story.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/10-shelly-kraemer.mp3" length="9.86 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/10-shelly-kraemer.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:10:46</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Shelley vs. Kraemer, law, restrictive covenants</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>The Black Soldier's Experience in World War II</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1940-1945</itunes:subtitle>
+    <itunes:summary>Much has been written about black military units in this country dating back to the days of the Buffalo Soldiers after the Civil War through the Tuskegee Airmen of World War Two. Less has been written about the experience of individual black soldiers who played a significant role in Europe and the Pacific in World War Two before the Armed Services were integrated in 1948. University of Iowa Professor Jeffrey Copeland has written about one such soldier, Inman Perkins, a teacher at Sumner High when he was drafted at the start of the war. Copeland recounts Perkins experiences, which mirrored those of many black servicemen, in his book, Inmans War: A Soldiers Story of Life in a Colored Battalion in World War Two.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/9-black-soldiers-ww2.mp3" length="12.2 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/9-black-soldiers-ww2.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:13:20</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, World War II, descrimination, soldier</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Pruitt-Igoe</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>St. Louis housing project</itunes:subtitle>
-<itunes:summary>The Pruitt-Igoe public housing project in St. Louis was built in 1954 and hailed as the prototype of what public housing should be. The nine high rise apartment buildings were to be used to house both black and white St. Louisans who were displaced by urban renewal. However, within a few years, Pruitt-Igoe was proving to be a major failure. A perfect storm of poor design, poor management, bad timing, overcrowding, and crime led to its demise. Within two decades it was leveled, its rubble testimony to the utter failure of the social experiment. Early in 2011 a documentary film was released which traced Pruitt-Igoes history. Titled The Pruitt-Igoe Myth, the film shows what happened and why, while reminding viewers that Pruitt-Igoe was home to thousands of (by 1972 primarily African American residents) who loved living there, who still carry found memories of their childhood there, but who concede that while its demise was probably warranted, represents a sad chapter for black St. Louisans and the city itself. The films director, Chad Freidrichs, joins us along with journalist Sylvester Brown--a former Pruitt-Igoe resident--and Jody Sowell, Public Historian at the Missouri History Museum. This segment also includes clips from the film.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/11a-pruitt-igoe.mp3" length="18.2 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/11a-pruitt-igoe.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:19:54</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, segregation, African American, black, public housing, Pruitt-Igoe, poverty, architecture, urban planning</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Shelley vs. Kraemer</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1945-1948</itunes:subtitle>
+    <itunes:summary>In spite of Constitutional protections, Black Americans were unable to live where they chose because of the practice called restrictive covenants. It took a landmark St. Louis case almost a century after the 14th Amendment to fracture the practice of these covenants which was in widespread use in the city. It was known as the Shelley vs. Kraemer case and was detailed by author/historian Jeffrey Copeland, the author of Olivias Story.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/10-shelly-kraemer.mp3" length="9.86 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/10-shelly-kraemer.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:10:46</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Shelley vs. Kraemer, law, restrictive covenants</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Gail Milissa Grant II</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>Growing up in South St. Louis, 1949-1973</itunes:subtitle>
-<itunes:summary>For two decades before she was born, Gail Milissa Grants father and mother had been actively involved in fighting the barriers of segregation and discrimination in St. Louis. David Grant had been closely associated with national leaders in the movement and was close to numerous celebrities who also played a role. He and they fought successfully on many fronts, but progress was slow. A de facto racial isolation was part of their everyday life. His decision to move his family to South St. Louis, which was virtually all white, was based on economics, not the need to break that particular geographical barrier. But, it put his two young children into a potentially hostile environment. This period is reflected in Gail Milissa Grants personal account of the period At the Elbows of my EldersOne Familys Journey Toward Civil Rights.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/11-gail-melissa-grant2.mp3" length="7.8 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/11-gail-melissa-grant2.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:08:31</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, attorney, descrimination, Gail Milissa Grant, David Grant</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Pruitt-Igoe</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>St. Louis housing project</itunes:subtitle>
+    <itunes:summary>The Pruitt-Igoe public housing project in St. Louis was built in 1954 and hailed as the prototype of what public housing should be. The nine high rise apartment buildings were to be used to house both black and white St. Louisans who were displaced by urban renewal. However, within a few years, Pruitt-Igoe was proving to be a major failure. A perfect storm of poor design, poor management, bad timing, overcrowding, and crime led to its demise. Within two decades it was leveled, its rubble testimony to the utter failure of the social experiment. Early in 2011 a documentary film was released which traced Pruitt-Igoes history. Titled The Pruitt-Igoe Myth, the film shows what happened and why, while reminding viewers that Pruitt-Igoe was home to thousands of (by 1972 primarily African American residents) who loved living there, who still carry found memories of their childhood there, but who concede that while its demise was probably warranted, represents a sad chapter for black St. Louisans and the city itself. The films director, Chad Freidrichs, joins us along with journalist Sylvester Brown--a former Pruitt-Igoe resident--and Jody Sowell, Public Historian at the Missouri History Museum. This segment also includes clips from the film.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/11a-pruitt-igoe.mp3" length="18.2 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/11a-pruitt-igoe.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:19:54</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, segregation, African American, black, public housing, Pruitt-Igoe, poverty, architecture, urban planning</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Jefferson Bank Confrontation</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1963</itunes:subtitle>
-<itunes:summary>One of the most important chapters in St. Louis civil rights history was written in the late summer of 1963 when African Americans launched a series of protest demonstrations against the Jefferson Bank. It was largely a community effort by black political, religious and activist leaders in protest against not only the lack of black employees at the bank, but for the widespread practice against employing Black Americans by many of the major companies in the city. One of the key players in the demonstrations was a city Alderman, William Clay, who later was elected to Congress. He and hundreds of others went to jail for their role in the demonstrations, the legal ramifications of which went on for three and a half years. Clay documented the confrontation in his book The Jefferson Bank ConfrontationThe Struggle for Civil Rights in St. Louis. He talked about it with his son Congressman William (Lacy) Clay.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/12-jefferson-bank-confrontation.mp3" length="18.7 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/12-jefferson-bank-confrontation.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:20:30</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Jefferson Bank Confrontation, protest</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Gail Milissa Grant II</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>Growing up in South St. Louis, 1949-1973</itunes:subtitle>
+    <itunes:summary>For two decades before she was born, Gail Milissa Grants father and mother had been actively involved in fighting the barriers of segregation and discrimination in St. Louis. David Grant had been closely associated with national leaders in the movement and was close to numerous celebrities who also played a role. He and they fought successfully on many fronts, but progress was slow. A de facto racial isolation was part of their everyday life. His decision to move his family to South St. Louis, which was virtually all white, was based on economics, not the need to break that particular geographical barrier. But, it put his two young children into a potentially hostile environment. This period is reflected in Gail Milissa Grants personal account of the period At the Elbows of my EldersOne Familys Journey Toward Civil Rights.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/11-gail-melissa-grant2.mp3" length="7.8 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/11-gail-melissa-grant2.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:08:31</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, attorney, descrimination, Gail Milissa Grant, David Grant</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Bob Gibson</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1960-2009</itunes:subtitle>
-<itunes:summary>One of the great athletes of the second half of the 20th century was Bob Gibson of the St. Louis Cardinals. He was a Hall of Fame pitcher known for his aggressive approach to the game. He is still revered as one of the greatest Cardinals players ever. His career took him from the late '50s, through the '60s, and into the following decade. He pitched through the important years in black Americas struggle to win equal rights. These were the days of Martin Luther King, Kings assassination, bloody clashes between blacks and whites in the South, and violence directed at black, and white, youth involved in attempts to integrate. Black Americans were becoming more militant. Gibson was not blind to any of it, nor to his own role. He talked about it in the fall of 2009, after a raucous summer of Tea Party political demonstrations, criticism of our first black president, and social reform legislation--which some saw as evidence of overt racism.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/13-bob-gibson.mp3" length="4.79 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/13-bob-gibson.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:05:14</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Cardinals, baseball</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Jefferson Bank Confrontation</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1963</itunes:subtitle>
+    <itunes:summary>One of the most important chapters in St. Louis civil rights history was written in the late summer of 1963 when African Americans launched a series of protest demonstrations against the Jefferson Bank. It was largely a community effort by black political, religious and activist leaders in protest against not only the lack of black employees at the bank, but for the widespread practice against employing Black Americans by many of the major companies in the city. One of the key players in the demonstrations was a city Alderman, William Clay, who later was elected to Congress. He and hundreds of others went to jail for their role in the demonstrations, the legal ramifications of which went on for three and a half years. Clay documented the confrontation in his book The Jefferson Bank ConfrontationThe Struggle for Civil Rights in St. Louis. He talked about it with his son Congressman William (Lacy) Clay.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/12-jefferson-bank-confrontation.mp3" length="18.7 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/12-jefferson-bank-confrontation.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:20:30</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Jefferson Bank Confrontation, protest</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Freedom Summer</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1964</itunes:subtitle>
-<itunes:summary>1964 was an important year in the struggle for equal rights. It was the year of the Civil Rights Act and the year in which three civil rights workers, Michael Schwerner, James Chaney and Andrew Goodman, were murdered in Mississippi by the Ku Klux Klan. The three were there as part of what was called Freedom Summer. It was a time in which more than one thousand mostly white, young volunteers converged on Mississippi to help register African American voters who had been largely disenfranchised by the Jim Crow system, and by intimidation. Fewer than one in fourteen eligible African Americans were registered to vote in Mississippi. Among those who participated in Freedom Summer were St. Louisan Chris Hexter, who is now a St. Louis attorney. His mentor in the movement was Charles McLaurin, then a local leader of the Student Non-Violent Coordinating Committee, or SNCC, the organization that organized Freedom Summer.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/14-freedom-summer.mp3" length="12.9 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/14-freedom-summer.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:14:06</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, voter registration, Jim Crow, Freedom Summer, literacy test</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Bob Gibson</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1960-2009</itunes:subtitle>
+    <itunes:summary>One of the great athletes of the second half of the 20th century was Bob Gibson of the St. Louis Cardinals. He was a Hall of Fame pitcher known for his aggressive approach to the game. He is still revered as one of the greatest Cardinals players ever. His career took him from the late '50s, through the '60s, and into the following decade. He pitched through the important years in black Americas struggle to win equal rights. These were the days of Martin Luther King, Kings assassination, bloody clashes between blacks and whites in the South, and violence directed at black, and white, youth involved in attempts to integrate. Black Americans were becoming more militant. Gibson was not blind to any of it, nor to his own role. He talked about it in the fall of 2009, after a raucous summer of Tea Party political demonstrations, criticism of our first black president, and social reform legislation--which some saw as evidence of overt racism.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/13-bob-gibson.mp3" length="4.79 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/13-bob-gibson.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:05:14</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Cardinals, baseball</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Rule of Law vs. Civil Disobedience</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>Civil Rights: 1960-2010</itunes:subtitle>
-<itunes:summary>Among the names of those who have been most involved in advancing civil rights in St. Louis, the names of Frankie Freeman and Percy Green are prominent. Frankie Freeman has been active for most of her nine decades. Percy Green has been involved for half that time, but their contributions have been significant. Freeman, an attorney, has contributed through her work on integrating public housing. She spent 16 years on the U.S. Commission on Civil Rights. Percy Green has been an outspoken activist who made national headlines with a bold scaling of the St. Louis Gateway Arch to protest inequities in construction employment. He engineered disruptions of the Veiled Prophet Ball for the same reason. Freeman and Green used different approaches in their battle against discrimination. She, the rule of law. He, civil disobedience. Nonetheless, their objective was the same.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/15-rule-of-law-vs-civil-disobedience.mp3" length="15.2 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/15-rule-of-law-vs-civil-disobedience.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:14:06</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, protest, law, civil disobedience, Veiled Prophet</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Freedom Summer</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1964</itunes:subtitle>
+    <itunes:summary>1964 was an important year in the struggle for equal rights. It was the year of the Civil Rights Act and the year in which three civil rights workers, Michael Schwerner, James Chaney and Andrew Goodman, were murdered in Mississippi by the Ku Klux Klan. The three were there as part of what was called Freedom Summer. It was a time in which more than one thousand mostly white, young volunteers converged on Mississippi to help register African American voters who had been largely disenfranchised by the Jim Crow system, and by intimidation. Fewer than one in fourteen eligible African Americans were registered to vote in Mississippi. Among those who participated in Freedom Summer were St. Louisan Chris Hexter, who is now a St. Louis attorney. His mentor in the movement was Charles McLaurin, then a local leader of the Student Non-Violent Coordinating Committee, or SNCC, the organization that organized Freedom Summer.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/14-freedom-summer.mp3" length="12.9 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/14-freedom-summer.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:14:06</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, voter registration, Jim Crow, Freedom Summer, literacy test</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Judge Theodore McMillian</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1956-2006</itunes:subtitle>
-<itunes:summary>Judge Theodore McMillian was a man of many firsts: as one of the first black students at the St. Louis University School of Law, he graduated first in his class; he was the first African-American assistant prosecutor for the City of St. Louis, and later the citys first black judge. He was the first black member of the Missouri Court of Appeals-Eastern District and the first African American to reach the U.S. Circuit Court of Appeals. One of his early clerks was St. Louis Circuit Court Judge Lisa Van Amberg who remembers that Judge McMillian wrote landmark decisions on desegregation, free speech, civil rights, employment discrimination, and affirmative action.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/16-judge-theodore-mcmillian.mp3" length="7.3 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/16-judge-theodore-mcmillian.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:08:00</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, judge, law, Theodore McMillian, Missouri, court</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Rule of Law vs. Civil Disobedience</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>Civil Rights: 1960-2010</itunes:subtitle>
+    <itunes:summary>Among the names of those who have been most involved in advancing civil rights in St. Louis, the names of Frankie Freeman and Percy Green are prominent. Frankie Freeman has been active for most of her nine decades. Percy Green has been involved for half that time, but their contributions have been significant. Freeman, an attorney, has contributed through her work on integrating public housing. She spent 16 years on the U.S. Commission on Civil Rights. Percy Green has been an outspoken activist who made national headlines with a bold scaling of the St. Louis Gateway Arch to protest inequities in construction employment. He engineered disruptions of the Veiled Prophet Ball for the same reason. Freeman and Green used different approaches in their battle against discrimination. She, the rule of law. He, civil disobedience. Nonetheless, their objective was the same.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/15-rule-of-law-vs-civil-disobedience.mp3" length="15.2 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/15-rule-of-law-vs-civil-disobedience.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:14:06</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, protest, law, civil disobedience, Veiled Prophet</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Black Artists' Group (BAG)</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1968-1972</itunes:subtitle>
-<itunes:summary>Black entertainers had a difficult time in St. Louis during much of the 20th century. Musicians unions were not welcoming. Venues were limited, forcing some of the areas best known entertainers to leave the area and find success elsewhere. Josephine Baker and Miles Davis were among them. During the 1960s, during the height of social unrest and change, a group of black musicians, actors, writers, dancers, and artists from other disciplines formed a loosely knit collective called the Black Artists Group or BAG. Author Benjamin Looker called it a seedbed for artistic innovation. But, the era of social unrest worked against it. Lookers book Point From Which Creation Begins chronicles the era. Screenwriter and teacher Malinke Elliott was co-founder of BAG in St. Louis. Musician J.D. Parran was participant in the organization.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/17-black-artist-group.mp3" length="11.9 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/17-black-artist-group.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:13:04</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, musician, artist, BAG, union, discrimination</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Judge Theodore McMillian</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1956-2006</itunes:subtitle>
+    <itunes:summary>Judge Theodore McMillian was a man of many firsts: as one of the first black students at the St. Louis University School of Law, he graduated first in his class; he was the first African-American assistant prosecutor for the City of St. Louis, and later the citys first black judge. He was the first black member of the Missouri Court of Appeals-Eastern District and the first African American to reach the U.S. Circuit Court of Appeals. One of his early clerks was St. Louis Circuit Court Judge Lisa Van Amberg who remembers that Judge McMillian wrote landmark decisions on desegregation, free speech, civil rights, employment discrimination, and affirmative action.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/16-judge-theodore-mcmillian.mp3" length="7.3 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/16-judge-theodore-mcmillian.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:08:00</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, judge, law, Theodore McMillian, Missouri, court</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Racial Profiling</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>2010</itunes:subtitle>
-<itunes:summary>Statistics show that minorities, especially Black Americans, are stopped by police in dramatic disproportion to their percentage of the population. There are many safeguards in place in Missouri designed to prohibit profiling. However, it still happens, and when it does, it drives a wedge between the African American and law enforcement communities. David Harris is the author of Profiles in Injustice which focuses on profiling. He met to discuss the issue with Redditt Hudson of the American Civil Liberties Union of Eastern Missouri, and Rick Rosenfeld, Professor of Criminology and Criminal Justice at the University of Missouri-St. Louis.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/18-racial-profiling.mp3" length="3.97 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/18-racial-profiling.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:04:21</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, racial profiling, discrimination, law enforcement</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Black Artists' Group (BAG)</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1968-1972</itunes:subtitle>
+    <itunes:summary>Black entertainers had a difficult time in St. Louis during much of the 20th century. Musicians unions were not welcoming. Venues were limited, forcing some of the areas best known entertainers to leave the area and find success elsewhere. Josephine Baker and Miles Davis were among them. During the 1960s, during the height of social unrest and change, a group of black musicians, actors, writers, dancers, and artists from other disciplines formed a loosely knit collective called the Black Artists Group or BAG. Author Benjamin Looker called it a seedbed for artistic innovation. But, the era of social unrest worked against it. Lookers book Point From Which Creation Begins chronicles the era. Screenwriter and teacher Malinke Elliott was co-founder of BAG in St. Louis. Musician J.D. Parran was participant in the organization.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/17-black-artist-group.mp3" length="11.9 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/17-black-artist-group.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:13:04</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, musician, artist, BAG, union, discrimination</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>The "N" Word</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>1968-1972</itunes:subtitle>
-<itunes:summary>The N word is a racist, demeaning, humiliating slur and has moved from relatively common everyday usage to one that is usually avoided. A new edition of Mark Twains Huckleberry Finn is removing it entirely. However, it is still very much a part of the American vocabulary. It is often used in modern America by black entertainers in comedy routines and popular rap music. And, blacks have been known to use it derogatorily against each other. Whites avoid it in polite conversation and shun it in public discourse. Nonetheless, it is used in private conversation among some people. Racist comments by popular broadcast personality Don Imus and movie star Mel Gibson ignited a national conversation on the N word and the language of race. It prompted a discussion with leaders of the black community in St. Louis: Reverend Douglas Parham, President of the St. Louis Metropolitan Clergy Coalition; John Moton, Jr., who chairs the St. Louis Black Leadership Roundtable; and James Buford, President and CEO of the Urban League of Metropolitan St. Louis.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/19-the-n-word.mp3" length="9.06 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/19-the-n-word.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:09:54</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, racial slur, n word</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Racial Profiling</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>2010</itunes:subtitle>
+    <itunes:summary>Statistics show that minorities, especially Black Americans, are stopped by police in dramatic disproportion to their percentage of the population. There are many safeguards in place in Missouri designed to prohibit profiling. However, it still happens, and when it does, it drives a wedge between the African American and law enforcement communities. David Harris is the author of Profiles in Injustice which focuses on profiling. He met to discuss the issue with Redditt Hudson of the American Civil Liberties Union of Eastern Missouri, and Rick Rosenfeld, Professor of Criminology and Criminal Justice at the University of Missouri-St. Louis.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/18-racial-profiling.mp3" length="3.97 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/18-racial-profiling.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:04:21</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, racial profiling, discrimination, law enforcement</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Hardships for African-American Girls</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>2008</itunes:subtitle>
-<itunes:summary>The life of young African Americans in poor urban neighborhoods can be more difficult than their Caucasian or African American counterparts in middle class settings know. Violence and drugs are key components. Parental supervision is often lacking. For African American girls, circumstances conspire to keep them mired in an ugly cycle. University of Missouri criminologist Jody Miller has done extensive research into the circumstances that lead so many of these young women into the trap of that cycle which she detailed in her book Getting Played: African American Girls, Urban Inequality and Gendered Violence.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/20-hardships-of-african-american-girls.mp3" length="4.27 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/20-hardships-of-african-american-girls.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:04:40</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, feminism, girl, young women, violence, poverty</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>The "N" Word</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>1968-1972</itunes:subtitle>
+    <itunes:summary>The N word is a racist, demeaning, humiliating slur and has moved from relatively common everyday usage to one that is usually avoided. A new edition of Mark Twains Huckleberry Finn is removing it entirely. However, it is still very much a part of the American vocabulary. It is often used in modern America by black entertainers in comedy routines and popular rap music. And, blacks have been known to use it derogatorily against each other. Whites avoid it in polite conversation and shun it in public discourse. Nonetheless, it is used in private conversation among some people. Racist comments by popular broadcast personality Don Imus and movie star Mel Gibson ignited a national conversation on the N word and the language of race. It prompted a discussion with leaders of the black community in St. Louis: Reverend Douglas Parham, President of the St. Louis Metropolitan Clergy Coalition; John Moton, Jr., who chairs the St. Louis Black Leadership Roundtable; and James Buford, President and CEO of the Urban League of Metropolitan St. Louis.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/19-the-n-word.mp3" length="9.06 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/19-the-n-word.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:09:54</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, racial slur, n word</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Education Achievement Gap</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>2000-2010</itunes:subtitle>
-<itunes:summary>For generations, African American students in St. Louis and the region have performed at a lower level than their counterparts. Many reasons have been cited, not the least of which is inferior schools, inferior equipment, and often less dedicated teachers in poor, urban districts. Family dysfunction also plays a role. During the first decade of the current century, black civic, political and religious leaders have been working to improve the performance of African American students. Each year, the Black Leadership Roundtable has put out a report card measuring the gap. While there has been some progress, the disparity remains. Black Leadership Roundtable executives John Moton, Charles Saulesberry, and Reverend Sammie Jones spoke to the issue.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/21-education-achievement-gap.mp3" length="3.19 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/21-education-achievement-gap.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:03:29</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, education, achievement gap, poverty</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Hardships for African-American Girls</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>2008</itunes:subtitle>
+    <itunes:summary>The life of young African Americans in poor urban neighborhoods can be more difficult than their Caucasian or African American counterparts in middle class settings know. Violence and drugs are key components. Parental supervision is often lacking. For African American girls, circumstances conspire to keep them mired in an ugly cycle. University of Missouri criminologist Jody Miller has done extensive research into the circumstances that lead so many of these young women into the trap of that cycle which she detailed in her book Getting Played: African American Girls, Urban Inequality and Gendered Violence.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/20-hardships-of-african-american-girls.mp3" length="4.27 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/20-hardships-of-african-american-girls.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:04:40</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, feminism, girl, young women, violence, poverty</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Impact of Obama's Race Speech</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>on the 2008 Campaign</itunes:subtitle>
-<itunes:summary>During the 2008 presidential campaign, then Senator Barack Obama delivered what was largely considered his most important speech of the campaign, and one of the most significant speeches ever on the subject of race relations. He was responding to comments made by his long-time pastor, Rev. Jeremiah Wright condemning what he called racist America. Wright suggested that racism led to the September 11 attack at the World Trade Center. Because he was an informal advisor to the Obama campaign, Wrights comments raised questions about candidate Obamas own attitude on race. Sen. Obama delivered his response, titled "A More Perfect Union" at Philadelphias Constitution Center. The candidate discussed racial tension, white privilege and black anger. He appealed for America and Americans to come together to confront and solve the major problems facing all Americans. The speech launched a national dialogue on race. In St. Louis, where the polarization of races had long been acknowledged by both blacks and whites, part of that dialogue was conducted by Lewis Reed, President of the Board of Aldermen, Rabbi Mark Shook of Temple Israel, and Reverend Earl Nance, Jr. of the Greater Mt. Carmel Baptist Church.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/22-impact-of-barack-obama-speech.mp3" length="8.65 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/22-impact-of-barack-obama-speech.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:09:27</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Obama, speech, president, Barack, Rev. Jeremiah Wright, white privilege</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Education Achievement Gap</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>2000-2010</itunes:subtitle>
+    <itunes:summary>For generations, African American students in St. Louis and the region have performed at a lower level than their counterparts. Many reasons have been cited, not the least of which is inferior schools, inferior equipment, and often less dedicated teachers in poor, urban districts. Family dysfunction also plays a role. During the first decade of the current century, black civic, political and religious leaders have been working to improve the performance of African American students. Each year, the Black Leadership Roundtable has put out a report card measuring the gap. While there has been some progress, the disparity remains. Black Leadership Roundtable executives John Moton, Charles Saulesberry, and Reverend Sammie Jones spoke to the issue.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/21-education-achievement-gap.mp3" length="3.19 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/21-education-achievement-gap.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:03:29</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, education, achievement gap, poverty</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Obama Post Election</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>November, 2008</itunes:subtitle>
-<itunes:summary>When Barack Obama was elected president he acknowledged that the historic election of a black man was only possible by his standing on the shoulders of those who had fought for ending discrimination and racism in previous decades and generations. Among two of the best known of this group in St. Louis were the late Margaret Bush Wilson and activist Norman Seay. She served nine terms as the chairman of the national Board of Directors of the NAACP and was president of the St. Louis chapter. She was a lawyer-activist and assisted her father as he worked on ending housing discrimination. His work led to the famous 1948 Shelley vs. Kraemer Supreme Court decision that put an end to restrictive covenants used against Black Americans. Norman Seay was active for decades in fighting discrimination. He was jailed for ninety days for his role in 1963 demonstrations against the discriminatory hiring practices of the Jefferson Bank in St. Louis. In the days following President Obamas election, they reflected on the history of the event, and of events which preceded it in which they were involved.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/23-post-obama-election-november-2008.mp3" length="14.9 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/23-post-obama-election-november-2008.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:16:20</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Obama, election, president, Barack, white privilege</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Impact of Obama's Race Speech</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>on the 2008 Campaign</itunes:subtitle>
+    <itunes:summary>During the 2008 presidential campaign, then Senator Barack Obama delivered what was largely considered his most important speech of the campaign, and one of the most significant speeches ever on the subject of race relations. He was responding to comments made by his long-time pastor, Rev. Jeremiah Wright condemning what he called racist America. Wright suggested that racism led to the September 11 attack at the World Trade Center. Because he was an informal advisor to the Obama campaign, Wrights comments raised questions about candidate Obamas own attitude on race. Sen. Obama delivered his response, titled "A More Perfect Union" at Philadelphias Constitution Center. The candidate discussed racial tension, white privilege and black anger. He appealed for America and Americans to come together to confront and solve the major problems facing all Americans. The speech launched a national dialogue on race. In St. Louis, where the polarization of races had long been acknowledged by both blacks and whites, part of that dialogue was conducted by Lewis Reed, President of the Board of Aldermen, Rabbi Mark Shook of Temple Israel, and Reverend Earl Nance, Jr. of the Greater Mt. Carmel Baptist Church.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/22-impact-of-barack-obama-speech.mp3" length="8.65 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/22-impact-of-barack-obama-speech.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:09:27</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Obama, speech, president, Barack, Rev. Jeremiah Wright, white privilege</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Obama Inauguration Postscript</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle>January, 2009</itunes:subtitle>
-<itunes:summary>The historic inauguration of Barack Obama certainly had special meaning for African Americans. After generations of slavery, followed by the Jim Crow era and widespread discrimination and racism, there was, in the black community especially, a feeling special of pride and accomplishment in Obamas election and inauguration. Three St. Louisans went to Washington to witness the historic swearing in on the Mall. Professor Anthony Bradley is a professor of Systematic Theology and Ethics at Covenant Theological Seminary in St. Louis,Journalist Sylvester Brown, and St. Louis Public Radio host Ed Francis sat down to discuss the experience and its meaning.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/24-obama-inauguration-postscript.mp3" length="8.29 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/24-obama-inauguration-postscript.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:09:04</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Obama, inauguration, president, Barack, white privilege</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Obama Post Election</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>November, 2008</itunes:subtitle>
+    <itunes:summary>When Barack Obama was elected president he acknowledged that the historic election of a black man was only possible by his standing on the shoulders of those who had fought for ending discrimination and racism in previous decades and generations. Among two of the best known of this group in St. Louis were the late Margaret Bush Wilson and activist Norman Seay. She served nine terms as the chairman of the national Board of Directors of the NAACP and was president of the St. Louis chapter. She was a lawyer-activist and assisted her father as he worked on ending housing discrimination. His work led to the famous 1948 Shelley vs. Kraemer Supreme Court decision that put an end to restrictive covenants used against Black Americans. Norman Seay was active for decades in fighting discrimination. He was jailed for ninety days for his role in 1963 demonstrations against the discriminatory hiring practices of the Jefferson Bank in St. Louis. In the days following President Obamas election, they reflected on the history of the event, and of events which preceded it in which they were involved.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/23-post-obama-election-november-2008.mp3" length="14.9 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/23-post-obama-election-november-2008.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:16:20</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Obama, election, president, Barack, white privilege</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>White Perceptions of the St. Louis Racial Divide</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary>In St. Louis, sometimes called one of the, if not the , most racially polarized city in America how do St. Louis whites view racism today? Political scientist Terry Jones of the University of Missouri-St. Louis has studied the issue. Margaret Freivogel, the editor of the St. Louis Beacon online newspaper has edited a comprehensive series of reports on racism in St. Louis. Nikki Weinstein of FOCUS St. Louis represents a civic organization which seeks positive change through developing leadership, influencing policy, and promoting community connections. FOCUS has sponsored a series of studies on racial polarization in St. Louis.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/25-white-perceptions-stl-racial-divide.mp3" length="6.38 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/25-white-perceptions-stl-racial-divide.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:06:58</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, segregation, integration, white</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Obama Inauguration Postscript</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle>January, 2009</itunes:subtitle>
+    <itunes:summary>The historic inauguration of Barack Obama certainly had special meaning for African Americans. After generations of slavery, followed by the Jim Crow era and widespread discrimination and racism, there was, in the black community especially, a feeling special of pride and accomplishment in Obamas election and inauguration. Three St. Louisans went to Washington to witness the historic swearing in on the Mall. Professor Anthony Bradley is a professor of Systematic Theology and Ethics at Covenant Theological Seminary in St. Louis,Journalist Sylvester Brown, and St. Louis Public Radio host Ed Francis sat down to discuss the experience and its meaning.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/24-obama-inauguration-postscript.mp3" length="8.29 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/24-obama-inauguration-postscript.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:09:04</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, Obama, inauguration, president, Barack, white privilege</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Growing Up Black in St. Louis</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary>St. Louis has the dubious distinction of being one of the most racially polarized cities in the nation. However, it would be unfair not to acknowledge that many other cities also have had, and still have, problems with race relations.Three black African Americans of separate generations sat down together at the St. Louis History Museum to talk about their experiences growing up black in St. Louis, and their impressions of how the black experience changed for them here over the years. Mariah Richardson is a playwright, actress and teacher. She attended desegregated schools in St. Louis. Donn Johnson is a retired broadcast journalist who grew up on both sides of the Brown vs. Board of Education decision. Percy Green is a lifelong civil rights activist. He was in the vanguard of the civil rights movement in the late fifties through the early sixties, and ever since, primarily as a civil disobedience strategist.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/26-growing-up-black.mp3" length="14.0 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/26-growing-up-black.mp3</guid>
-<pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
-<itunes:duration>00:15:24</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, segregation, integration, white, education</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>White Perceptions of the St. Louis Racial Divide</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>In St. Louis, sometimes called one of the, if not the , most racially polarized city in America how do St. Louis whites view racism today? Political scientist Terry Jones of the University of Missouri-St. Louis has studied the issue. Margaret Freivogel, the editor of the St. Louis Beacon online newspaper has edited a comprehensive series of reports on racism in St. Louis. Nikki Weinstein of FOCUS St. Louis represents a civic organization which seeks positive change through developing leadership, influencing policy, and promoting community connections. FOCUS has sponsored a series of studies on racial polarization in St. Louis.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/25-white-perceptions-stl-racial-divide.mp3" length="6.38 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/25-white-perceptions-stl-racial-divide.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:06:58</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, segregation, integration, white</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
-<item>
-<title>Ferguson: August 11, 2014</title>
-<itunes:author>St. Louis Public Radio</itunes:author>
-<itunes:subtitle></itunes:subtitle>
-<itunes:summary>St. Louis has the dubious distinction of being one of the most racially polarized cities in the nation. However, it would be unfair not to acknowledge that many other cities also have had, and still have, problems with race relations.Three black African Americans of separate generations sat down together at the St. Louis History Museum to talk about their experiences growing up black in St. Louis, and their impressions of how the black experience changed for them here over the years. Mariah Richardson is a playwright, actress and teacher. She attended desegregated schools in St. Louis. Donn Johnson is a retired broadcast journalist who grew up on both sides of the Brown vs. Board of Education decision. Percy Green is a lifelong civil rights activist. He was in the vanguard of the civil rights movement in the late fifties through the early sixties, and ever since, primarily as a civil disobedience strategist.</itunes:summary>
-<enclosure url="http://kwmuweb.streamguys.com/blackwhite/6-east-stl-race-riots.mp3" length="14.3 MB" type="audio/mpeg" />
-<guid>http://kwmuweb.streamguys.com/blackwhite/6-east-stl-race-riots.mp3</guid>
-<pubDate>Tues, 31 Aug 2016 09:27:00 GMT</pubDate>
-<itunes:duration>00:15:38</itunes:duration>
-<itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, labor, migration</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-</item>
+  <item>
+    <title>Growing Up Black in St. Louis</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>St. Louis has the dubious distinction of being one of the most racially polarized cities in the nation. However, it would be unfair not to acknowledge that many other cities also have had, and still have, problems with race relations.Three black African Americans of separate generations sat down together at the St. Louis History Museum to talk about their experiences growing up black in St. Louis, and their impressions of how the black experience changed for them here over the years. Mariah Richardson is a playwright, actress and teacher. She attended desegregated schools in St. Louis. Donn Johnson is a retired broadcast journalist who grew up on both sides of the Brown vs. Board of Education decision. Percy Green is a lifelong civil rights activist. He was in the vanguard of the civil rights movement in the late fifties through the early sixties, and ever since, primarily as a civil disobedience strategist.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/26-growing-up-black.mp3" length="14.0 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/26-growing-up-black.mp3</guid>
+    <pubDate>Fri, 2 Sep 2011 19:00:00 GMT</pubDate>
+    <itunes:duration>00:15:24</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, segregation, integration, white, education</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 
+  <item>
+    <title>Ferguson: August 11, 2014</title>
+    <itunes:author>St. Louis Public Radio</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:summary>St. Louis has the dubious distinction of being one of the most racially polarized cities in the nation. However, it would be unfair not to acknowledge that many other cities also have had, and still have, problems with race relations.Three black African Americans of separate generations sat down together at the St. Louis History Museum to talk about their experiences growing up black in St. Louis, and their impressions of how the black experience changed for them here over the years. Mariah Richardson is a playwright, actress and teacher. She attended desegregated schools in St. Louis. Donn Johnson is a retired broadcast journalist who grew up on both sides of the Brown vs. Board of Education decision. Percy Green is a lifelong civil rights activist. He was in the vanguard of the civil rights movement in the late fifties through the early sixties, and ever since, primarily as a civil disobedience strategist.</itunes:summary>
+    <enclosure url="http://kwmuweb.streamguys.com/blackwhite/6-east-stl-race-riots.mp3" length="14.3 MB" type="audio/mpeg" />
+    <guid>http://kwmuweb.streamguys.com/blackwhite/6-east-stl-race-riots.mp3</guid>
+    <pubDate>Tues, 31 Aug 2016 09:27:00 GMT</pubDate>
+    <itunes:duration>00:15:38</itunes:duration>
+    <itunes:keywords>race, history, St. Louis, Saint Louis, civil rights, African American, black, labor, migration</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 </channel>
 </rss>
