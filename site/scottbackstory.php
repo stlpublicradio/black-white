@@ -10,75 +10,83 @@
 
 
 <main class="container">
-    <div class="row">
-       <ol class="breadcrumb col-xs-12">
-              <li><a href="/">Home </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
-              <li><a href="https://news.stlpublicradio.org/programs">Programs </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
-              <li><a href="index.php">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
-              <li><a href="people.php">People</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
-              <li class="active">Dred Scott Backstory</li>
-            </ol>
-        <div class="col-md-12">
-          <h1>Dred and Harriet Scott Backstory <br class="hidden-sm hidden-md hidden-lg hidden-xl"><span class="date">1857-2010</span></h1>
-        </div>
-      <div class="col-md-8">
-            <p class="top">There is a backstory to the Dred Scott decision. New information reveals that Harriet Scott, who was involved in the original suit for freedom with her husband, lived for a decade after the Civil War. The Scotts had two children. Eliza and Lizzie were given the protection of anonymity during the fractious period in which the Scotts sought emancipation. Genealogist Ruth Ann Hager of the St. Louis County Library did the research, which is outlined in her book <em><a href="http://www.amazon.com/Dred-Harriet-Scott-Their-Family/dp/0615327621">Dred and Harriet Scott: Their Family Story</a></em>.</p>
-            <p>Contributors: <strong>Ruth Ann Hager</strong></p>
-                        <p>Originally aired February 3, 2010</p>
-         </div>
-        <div class="col-md-4 soundcloud-iframe">
-          <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201295064&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-        </div>
-      </div>
-        <hr>
-  <div class="row more-info">
-      <div class="col-md-8">
-          <h2>Additional information about this episode</h2>
-      </div>
+  <div class="row">
+    <ol class="breadcrumb col-xs-12">
+      <li><a href="https://stlpr.org">Home </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
+      <li><a href="https://news.stlpublicradio.org/programs">Programs </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
+      <li><a href="index.php">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
+      <li><a href="people.php">People</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
+      <li class="active">Dred Scott Backstory</li>
+    </ol>
 
-  <div class="col-md-12">
-      <div class="col-sm-6 bw-photos">
-            <h3>Images</h3>
-            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21486668@N03/albums/72157671148891896" title="Dred Scott Backstory"><img src="https://c2.staticflickr.com/8/7468/28397510745_f357b8a4f4_o.jpg" width="250" height="205" alt="Dred Scott Backstory"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-          </div>
-          <div class="col-sm-6">
-            <h3>Links</h3>
-            <ul style="padding-bottom:20px;" class="top">
-              <li><a href="http://www.sos.mo.gov/archives/resources/africanamerican/scott/scott.asp" target="_blank">Expanded Scott history</a></li>
-              <li><a href="http://www.thedredscottfoundation.org/dshf/index.php?option=com_content&view=article&id=131:raaward&catid=42:press-releases&Itemid=97" target="_blank">Ruth Ann Hager wins award</a></li>
-            </ul>
-           </div>
-  </div>
-
-    <div class="col-md-12 top" style="clear:both;">
-    <div class="col-md-3 top nav-sets hidden-xs">
-              <span title="Previous Story"><h3 class="hidden-sm"><a href="dredscott.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h3></span>
-              <span title="Previous Story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="dredscott.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h4></span>
+    <div class="col-md-12">
+      <h1>Dred and Harriet Scott Backstory <br class="hidden-sm hidden-md hidden-lg hidden-xl"><span class="date">1857-2010</span></h1>
     </div>
 
-      <div class="col-md-6 col-sm-6 top">
-              <div class="more-episodes">
-                          <h4 style="font-style:italic; margin-left:10px">For more episodes in this podcast series</h4>
-                  <div class="podcast-container-small">
-                    <a href="https://soundcloud.com/st-louis-public-radio/sets/st-louis-history-in-black-white" target="_blank"><button type="button" class="btn btn-lg btn-block btn-danger"><i class="fab fa-soundcloud"></i>&nbsp; LISTEN</button></a>
-                  </div>
-                </div>
-              </div>
-        <div class="col-md-3 top nav-right hidden-xs">
-            <span title="Next Story"><h3 class="hidden-sm"><a href="exodusters.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h3></span>
-      <span title="Next story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="exodusters.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h4></span>
-         </div>
-         <div class="chevron-container">
-             <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:left;">
-                <br>
-                <span title="Previous Story"><a href="dredscott.php"><i class="fa fa-chevron-left fa-3x" style="color:#ccc; padding-left:30px;"></i></a></span>
-             </div>
-             <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:right;">
-                 <br>
-                 <span title="Next Story"><a href="exodusters.php"><i class="fa fa-chevron-right fa-3x" style="color:#ccc; padding-right:30px;"></i></a></span>
-             </div>
-         </div>
+    <div class="col-md-8">
+      <p class="top">There is a backstory to the Dred Scott decision. New information reveals that Harriet Scott, who was involved in the original suit for freedom with her husband, lived for a decade after the Civil War. The Scotts had two children. Eliza and Lizzie were given the protection of anonymity during the fractious period in which the Scotts sought emancipation. Genealogist Ruth Ann Hager of the St. Louis County Library did the research, which is outlined in her book <em><a href="http://www.amazon.com/Dred-Harriet-Scott-Their-Family/dp/0615327621">Dred and Harriet Scott: Their Family Story</a></em>.</p>
+      <p>Contributors: <strong>Ruth Ann Hager</strong></p>
+      <p>Originally aired February 3, 2010</p>
+    </div>
+
+    <div class="col-md-4 soundcloud-iframe">
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201295064&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </div>
+  </div>
+  <hr>
+
+  <div class="row more-info">
+    <div class="col-md-8">
+      <h2>Additional information about this episode</h2>
+    </div>
+
+    <div class="col-md-12">
+      <div class="col-sm-6 bw-photos">
+        <h3>Images</h3>
+        <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21486668@N03/albums/72157671148891896" title="Dred Scott Backstory"><img src="https://c2.staticflickr.com/8/7468/28397510745_f357b8a4f4_o.jpg" width="250" height="205" alt="Dred Scott Backstory"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
       </div>
+
+      <div class="col-sm-6">
+        <h3>Links</h3>
+        <ul style="padding-bottom:20px;" class="top">
+          <li><a href="http://www.sos.mo.gov/archives/resources/africanamerican/scott/scott.asp" target="_blank">Expanded Scott history</a></li>
+          <li><a href="http://www.thedredscottfoundation.org/dshf/index.php?option=com_content&view=article&id=131:raaward&catid=42:press-releases&Itemid=97" target="_blank">Ruth Ann Hager wins award</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-md-12 top" style="clear:both;">
+      <div class="col-md-3 top nav-sets hidden-xs">
+        <span title="Previous Story"><h3 class="hidden-sm"><a href="dredscott.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h3></span>
+        <span title="Previous Story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="dredscott.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h4></span>
+      </div>
+
+      <div class="col-md-6 col-sm-6 top">
+        <div class="more-episodes">
+          <h4 style="font-style:italic; margin-left:10px">For more episodes in this podcast series</h4>
+          <div class="podcast-container-small">
+            <a href="https://soundcloud.com/st-louis-public-radio/sets/st-louis-history-in-black-white" target="_blank"><button type="button" class="btn btn-lg btn-block btn-danger"><i class="fab fa-soundcloud"></i>&nbsp; LISTEN</button></a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-3 top nav-right hidden-xs">
+        <span title="Next Story"><h3 class="hidden-sm"><a href="exodusters.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h3></span>
+        <span title="Next story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="exodusters.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h4></span>
+      </div>
+
+      <div class="chevron-container">
+        <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:left;">
+          <br>
+          <span title="Previous Story"><a href="dredscott.php"><i class="fa fa-chevron-left fa-3x" style="color:#ccc; padding-left:30px;"></i></a></span>
+        </div>
+
+        <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:right;">
+          <br>
+          <span title="Next Story"><a href="exodusters.php"><i class="fa fa-chevron-right fa-3x" style="color:#ccc; padding-right:30px;"></i></a></span>
+        </div>
+      </div>
+    </div>
   </div>
   <hr>
 </main>
@@ -87,7 +95,7 @@
 <footer id="footer">
   <div class="footer-content">
     <section class="footer-connect">
-      <a href="/">
+      <a href="https://stlpr.org">
         <img
           class="footer-affiliation"
           src="https://npr.brightspotcdn.com/6d/6f/51f2274a49319561b3db64ef5bdc/stlpr-logo-wordmark-single-reverse.png"
@@ -99,17 +107,17 @@
       <ul class="footer-socials">
         <li class="footer-social">
           <a href="https://twitter.com/stlpublicradio">
-            <i class="fab fa-twitter"></i>
+          <i class="fab fa-twitter"></i>
           </a>
         </li>
         <li class="footer-social">
           <a href="https://www.instagram.com/stlpublicradio/">
-            <i class="fab fa-instagram"></i>
+          <i class="fab fa-instagram"></i>
           </a>
         </li>
         <li class="footer-social">
           <a href="https://www.facebook.com/stlpublicradio">
-            <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-facebook-f"></i>
           </a>
         </li>
       </ul>

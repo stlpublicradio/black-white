@@ -393,6 +393,17 @@ h1 {
   top: 50%;
 }
 
+#carousel-height-hack .carousel-content {
+  height: 350px !important;
+  overflow: auto;
+  align-items: unset;
+  padding: 2rem 0;
+}
+
+#carousel-height-hack .carousel {
+  height: 350px;
+}
+
 
 /* Bootstrap Navigation */
 

@@ -12,7 +12,7 @@
 <main class="container">
   <div class="row">
     <ol class="breadcrumb col-xs-12">
-      <li><a href="/">Home </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
+      <li><a href="https://stlpr.org">Home </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
       <li><a href="https://news.stlpublicradio.org/programs">Programs </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
       <li><a href="index.php">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
       <li><a href="experiences.php">Experiences</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
@@ -103,7 +103,7 @@
 <footer id="footer">
   <div class="footer-content">
     <section class="footer-connect">
-      <a href="/">
+      <a href="https://stlpr.org">
         <img
           class="footer-affiliation"
           src="https://npr.brightspotcdn.com/6d/6f/51f2274a49319561b3db64ef5bdc/stlpr-logo-wordmark-single-reverse.png"
@@ -115,17 +115,17 @@
       <ul class="footer-socials">
         <li class="footer-social">
           <a href="https://twitter.com/stlpublicradio">
-            <i class="fab fa-twitter"></i>
+          <i class="fab fa-twitter"></i>
           </a>
         </li>
         <li class="footer-social">
           <a href="https://www.instagram.com/stlpublicradio/">
-            <i class="fab fa-instagram"></i>
+          <i class="fab fa-instagram"></i>
           </a>
         </li>
         <li class="footer-social">
           <a href="https://www.facebook.com/stlpublicradio">
-            <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-facebook-f"></i>
           </a>
         </li>
       </ul>
