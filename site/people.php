@@ -43,7 +43,7 @@
 
         <div class="col-md-6">
           <div class="bw-photo">
-            <img src="/assets/black-artists.jpg" alt="A meeting of the Black Artists' Group">
+            <img src="/assets/images/black-artists.jpg" alt="A meeting of the Black Artists' Group">
             <p>A meeting of the Black Artists' Group.</p>
           </div>
         </div>

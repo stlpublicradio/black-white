@@ -43,7 +43,7 @@
     <div class="col-md-12">
       <div class="col-sm-6 bw-photos">
         <h3>Images</h3>
-        <img src="/assets/racial-profiling.jpg">
+        <img src="/assets/images/racial-profiling.jpg">
       </div>
 
       <div class="col-sm-6">

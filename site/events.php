@@ -44,7 +44,7 @@
 
         <div class="col-md-6">
           <div class="bw-photo">
-            <img src="/assets/jefferson-bank.jpg" alt="Jefferson Bank Demonstration">
+            <img src="/assets/images/jefferson-bank.jpg" alt="Jefferson Bank Demonstration">
             <p>Jefferson Bank Demonstration. Photo provided by Norman Seay.</p>
           </div>
         </div>

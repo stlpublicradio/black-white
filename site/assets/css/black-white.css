@@ -126,7 +126,7 @@ h1 {
 }
 
 #stlbw-header {
-  background-image: url("banner-large-screens");
+  background-image: url("../images/banner-large-screens");
   background-color: #D8D8D8;
   background-repeat: no-repeat;
   background-position: center top 32px;
@@ -136,7 +136,7 @@ h1 {
 
 @media (max-width: 767px) {
   #stlbw-header {
-    background-image: url("banner-small-screens");
+    background-image: url("../images/banner-small-screens");
     background-position: center top 32px;
   }
 }
@@ -209,7 +209,6 @@ h1 {
 
 #footer .footer-social {
   background-color: #000;
-  background-color: var(--footerPartnersBgColor);
   border-radius: 50%;
   display: flex;
   justify-content: center;
