@@ -1,7 +1,7 @@
 <!doctype html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
-  <title>East St. Louis Race Riot</title>
+  <title>Black Artists' Group</title>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-head-embed.php');?>
 </head>
 
@@ -15,22 +15,22 @@
       <li><a href="https://stlpr.org">Home </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
       <li><a href="https://news.stlpublicradio.org/programs">Programs </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
       <li><a href="index.php">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
-      <li><a href="events.php">Events</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
-      <li class="active">East St. Louis Race Riot</li>
+      <li><a href="people.php">People</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
+      <li class="active">Black Artists' Group</li>
     </ol>
 
-    <div class="col-md-12">
-      <h1>East St. Louis Race Riot <br class="hidden-sm hidden-md hidden-lg hidden-xl"><span class="date">July 2, 1917</span></h1>
+    <div class="col-lg-12">
+      <h1>Black Artists' Group (BAG) <br class="hidden-sm hidden-md hidden-lg hidden-xl"> <span class="date">1968-1972</span></h1>
     </div>
 
     <div class="col-md-8">
-      <p class="top">Race riots were not uncommon in the decades following the Civil War. Many were inspired by the migration of poor black farm workers from the South to the North. Northern white people watched the migrants arrive with some alarm, primarily because black people were a source of cheap labor that threatened to take local jobs. This was, in fact, often realized as white-owned companies exploited the situation. The bloodiest and ugliest of the race riots in the industrial North took place in East St. Louis on July 2, 1917. Historian-journalist Harper Barnes detailed the incident in his book <i><a href="http://www.amazon.com/Never-Been-Time-Sparked-Movement/dp/0802715753">Never Been A Time</a></i>.</p>
-      <p>Contributors: <strong>Harper Barnes</strong>
-      <p>Originally aired July 2, 2008</p>
+      <p class="top">Music and entertainment has always been a big part of St. Louis’ history The blues, jazz, and ragtime have all played a role and left their mark here and around the world. Black entertainers had a difficult time in St. Louis during much of the 20th century. Musicians’ unions were not welcoming. Venues were limited, forcing some of the area’s best known entertainers to leave the area and find success elsewhere. Josephine Baker and Miles Davis were among them. During the 1960s, during the height of social unrest and change, a group of black musicians, actors, writers, dancers, and artists from other disciplines formed a loosely knit collective called the Black Artists’ Group or BAG. Author Benjamin Looker called it a “seedbed for artistic innovation.” But the era of social unrest worked against it. Looker’s book <em><a href="http://www.amazon.com/Point-which-creation-begins-Artists/dp/1883982510">Point From Which Creation Begins</a></em> chronicles the era. Screenwriter and teacher Malinke Elliott was co-founder of BAG in St. Louis. Musician J.D. Parran was participant in the organization.</p>
+      <p>Contributors: <strong>Benjamin Looker</strong>, <strong>Malinke Elliott</strong>, and <strong>J.D. Parran</strong></p>
+      <p>Originally aired February 16, 2006</p>
     </div>
 
     <div class="col-md-4 soundcloud-iframe">
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201295057&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201295036&amp;color=000000&amp;auto_play=false&amp;hide_related=true&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </div>
   </div>
   <hr>
@@ -43,27 +43,24 @@
     <div class="col-md-12">
       <div class="col-sm-6 bw-photos">
         <h3>Images</h3>
-        <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21486668@N03/albums/72157670518264622" title="East St. Louis Riot"><img src="https://c5.staticflickr.com/9/8688/28128564260_39d0d19cc8_o.jpg" width="725" height="567" alt="East St. Louis Riot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21486668@N03/albums/72157671178844246" title="The Black Artist Group">
+          <img src="https://c1.staticflickr.com/9/8056/28128895400_ed32384c24_m.jpg" width="280" height="282" alt="The Black Artist Group">
+        </a>
+        <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
       </div>
 
       <div class="col-sm-6">
         <h3>Links</h3>
         <ul style="padding-bottom:20px;" class="top">
-          <li><a href="http://www.blackpast.org/aah/east-st-louis-race-riot-july-2-1917">Race Riot Background</a></li>
-          <li><a href="http://www.stltoday.com/news/local/metro/look-back/look-back-race-hatred-workforce-tensions-explode-in-east-st/article_9bfa1b5d-c627-5dc7-b1da-6d58993f3ecb.html">St. Louis Post-Dispatch: A Look Back</a></li>
-        </ul>
-
-        <h3>Videos</h3>
-        <ul style="padding-bottom:20px;" class="top">
-          <li><a href="https://www.youtube.com/watch?v=7lZPGL1u0XI">KETC: East St. Louis Race Riots</a></li>
+          <li><a href="http://www.allaboutjazz.com/articles/arti0302_01.htm" target="_blank">All About Jazz article on Black Artists' Group</a></li>
         </ul>
       </div>
     </div>
 
     <div class="col-md-12 top" style="clear:both;">
       <div class="col-md-3 top nav-sets hidden-xs">
-        <span title="Previous Story"><h3 class="hidden-sm"><a href="racialcleansing.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h3></span>
-        <span title="Previous Story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="racialcleansing.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h4></span>
+        <span title="Previous Story"><h3 class="hidden-sm"><a href="judge-mcmillian.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h3></span>
+        <span title="Previous Story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="judge-mcmillian.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h4></span>
       </div>
 
       <div class="col-md-6 col-sm-6 top">
@@ -76,23 +73,24 @@
       </div>
 
       <div class="col-md-3 top nav-right hidden-xs">
-        <span title="Next Story"><h3 class="hidden-sm"><a href="josephine-baker.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h3></span>
-        <span title="Next story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="josephine-baker.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h4></span>
+        <span title="Next Story"><h3 class="hidden-sm"><a href="racial-profiling.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h3></span>
+        <span title="Next story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="racial-profiling.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h4></span>
       </div>
 
       <div class="chevron-container">
-        <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:left;">
+        <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm" style="float:left;">
           <br>
-          <span title="Previous Story"><a href="racialcleansing.php"><i class="fa fa-chevron-left fa-3x" style="color:#ccc; padding-left:30px;"></i></a></span>
+          <span title="Previous Story"><a href="judge-mcmillian.php"><i class="fa fa-chevron-left fa-3x" style="color:#ccc; padding-left:30px;"></i></a></span>
         </div>
 
-        <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:right;">
+        <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm" style="float:right;">
           <br>
-          <span title="Next Story"><a href="josephine-baker.php"><i class="fa fa-chevron-right fa-3x" style="color:#ccc; padding-right:30px;"></i></a></span>
+          <span title="Next Story"><a href="racial-profiling.php"><i class="fa fa-chevron-right fa-3x" style="color:#ccc; padding-right:30px;"></i></a></span>
         </div>
       </div>
     </div>
   </div>
+
   <hr>
 </main>
 
@@ -100,7 +98,7 @@
 <footer id="footer">
   <div class="footer-content">
     <section class="footer-connect">
-      <a href="https://stlpr.org">
+      <a href="https://stlpr.org/">
         <img
           class="footer-affiliation"
           src="https://npr.brightspotcdn.com/6d/6f/51f2274a49319561b3db64ef5bdc/stlpr-logo-wordmark-single-reverse.png"

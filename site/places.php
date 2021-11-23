@@ -29,14 +29,14 @@
             <li role="presentation" class="active"><a href="/"><i class="fa fa-home" style="padding-right:.5em;"></i>Table of Contents</a></li>
             <li role="presentation"><a href="josephine-baker.php">Pruitt-Igoe</a></li>
             <li role="presentation"><a href="exodusters.php">Josephine Baker: 1906-1975</a></li>
-            <li role="presentation"><a href="racialcleansing.php">Gail Milissa Grant, The Family: 1906-1975</a></li>
-            <li role="presentation"><a href="raceriot.php">Black Soldiers in WWII: 1940-1945</a></li>
-            <li role="presentation"><a href="racialcleansing.php">Gail Milissa Grant, Growing up in South St. Louis: 1949-1973</a></li>
-            <li role="presentation"><a href="sundowntowns.php">Cardinals Pitcher Bob Gibson: 1960-2009</a></li>
-            <li role="presentation"><a href="scottbackstory.php">Rule of Law vs. Civil Disobedience: 1960-2010</a></li>
+            <li role="presentation"><a href="racial-cleansing.php">Gail Milissa Grant, The Family: 1906-1975</a></li>
+            <li role="presentation"><a href="race-riot.php">Black Soldiers in WWII: 1940-1945</a></li>
+            <li role="presentation"><a href="racial-cleansing.php">Gail Milissa Grant, Growing up in South St. Louis: 1949-1973</a></li>
+            <li role="presentation"><a href="sundown-towns.php">Cardinals Pitcher Bob Gibson: 1960-2009</a></li>
+            <li role="presentation"><a href="scott-backstory.php">Rule of Law vs. Civil Disobedience: 1960-2010</a></li>
             <li role="presentation"><a href="gail-grant-one.php">Judge Theodore McMillian: 1956-2006</a></li>
-            <li role="presentation"><a href="sundowntowns.php">Black Artists Group: 1968-1972</a></li>
-            <li role="presentation"><a href="scottbackstory.php">Obama Post Election: November 2008</a></li>
+            <li role="presentation"><a href="sundown-towns.php">Black Artists Group: 1968-1972</a></li>
+            <li role="presentation"><a href="scott-backstory.php">Obama Post Election: November 2008</a></li>
             <li role="presentation"><a href="gail-grant-one.php">Obama Post Inauguration: 2009</a></li>
           </ul>
         </div>

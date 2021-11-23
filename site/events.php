@@ -27,12 +27,12 @@
         <div class="col-md-4">
           <ul class="nav nav-pills nav-stacked podcast-pills">
             <li role="presentation" class="active"><a href="/"><i class="fa fa-home" style="padding-right:.5em;"></i>Table of Contents</a></li>
-            <li role="presentation"><a href="dredscott.php">Dred Scott Case: 1847-1858</a></li>
-            <li role="presentation"><a href="raceriot.php">East St. Louis Race Riot: July 2, 1917</a></li>
+            <li role="presentation"><a href="dred-scott.php">Dred Scott Case: 1847-1858</a></li>
+            <li role="presentation"><a href="race-riot.php">East St. Louis Race Riot: July 2, 1917</a></li>
             <li role="presentation"><a href="shelley-kraemer.php">Shelley vs. Kraemer: 1945-1948</a></li>
-            <li role="presentation"><a href="pruittigoe.php">Pruitt-Igoe: 1954-1976</a></li>
-            <li role="presentation"><a href="jeffersonbank.php">Jefferson Bank Demonstration: 1963</a></li>
-            <li role="presentation"><a href="freedomsummer.php">Freedom Summer: 1964</a></li>
+            <li role="presentation"><a href="pruitt-igoe.php">Pruitt-Igoe: 1954-1976</a></li>
+            <li role="presentation"><a href="jefferson-bank.php">Jefferson Bank Demonstration: 1963</a></li>
+            <li role="presentation"><a href="freedom-summer.php">Freedom Summer: 1964</a></li>
             <li role="presentation"><a href="obama-race-speech.php">Impact of Obama Race Speech: 2008</a></li>
             <li role="presentation"><a href="obama-post-election.php">Obama Post Election: November 2008</a></li>
             <li role="presentation"><a href="obama-post-inauguration.php">Obama Post Inauguration: 2009</a></li>

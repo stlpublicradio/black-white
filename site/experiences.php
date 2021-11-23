@@ -27,14 +27,14 @@
         <div class="col-md-4">
           <ul class="nav nav-pills nav-stacked podcast-pills">
             <li role="presentation" class="active"><a href="/"><i class="fa fa-home" style="padding-right:.5em;"></i>Table of Contents</a></li>
-            <li role="presentation"><a href="racialcleansing.php">Racial Cleansing</a></li>
-            <li role="presentation"><a href="sundowntowns.php">Sundown Towns: 1890-1910</a></li>
+            <li role="presentation"><a href="racial-cleansing.php">Racial Cleansing</a></li>
+            <li role="presentation"><a href="sundown-towns.php">Sundown Towns: 1890-1910</a></li>
             <li role="presentation"><a href="gail-grant-one.php">One Family's Experience: 1906-1975</a></li>
             <li role="presentation"><a href="black-soldier.php">Black Soldiers in WWII: 1940-1945</a></li>
             <li role="presentation"><a href="n-word.php">The "N" Word: 1968-1972</a></li>
             <li role="presentation"><a href="education.php">Education Achievement Gap: 2000-2010</a></li>
             <li role="presentation"><a href="girls.php">Hardships for African American Girls: 2008</a></li>
-            <li role="presentation"><a href="racialprofiling.php">Racial Profiling: 2010</a></li>
+            <li role="presentation"><a href="racial-profiling.php">Racial Profiling: 2010</a></li>
             <li role="presentation"><a href="growing-up-black.php">Growing up Black in St. Louis: 2010</a></li>
             <li role="presentation"><a href="white-perception.php">White Perceptions of the Racial Divide</a></li>
           </ul>

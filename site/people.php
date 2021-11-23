@@ -27,15 +27,15 @@
         <div class="col-md-4">
           <ul class="nav nav-pills nav-stacked podcast-pills">
             <li role="presentation" class="active"><a href="/"><i class="fa fa-home" style="padding-right:.5em;"></i>Table of Contents</a></li>
-            <li role="presentation"><a href="scottbackstory.php">The Scotts' Backstory: 1857-2010</a></li>
+            <li role="presentation"><a href="scott-backstory.php">The Scotts' Backstory: 1857-2010</a></li>
             <li role="presentation"><a href="exodusters.php">Exodusters: 1879-1880</a></li>
             <li role="presentation"><a href="josephine-baker.php">Josephine Baker: 1906-1975</a></li>
-            <li role="presentation"><a href="frankiefreeman.php">Attorney Frankie Freeman: 1948-2015</a></li>
+            <li role="presentation"><a href="frankie-freeman.php">Attorney Frankie Freeman: 1948-2015</a></li>
             <li role="presentation"><a href="gail-grant-two.php">Gail Milissa Grant, Growing Up: 1949-1973</a></li>
-            <li role="presentation"><a href="bobgibson.php">Cardinals Pitcher Bob Gibson: 1960-2009</a></li>
+            <li role="presentation"><a href="bob-gibson.php">Cardinals Pitcher Bob Gibson: 1960-2009</a></li>
             <li role="presentation"><a href="rule-civil-law.php">Law vs. Civil Disobedience: 1960-2010</a></li>
-            <li role="presentation"><a href="mcmillian.php">Judge Theodore McMillian: 1956-2006</a></li>
-            <li role="presentation"><a href="blackartists.php">Black Artists' Group: 1968-1972</a></li>
+            <li role="presentation"><a href="judge-mcmillian.php">Judge Theodore McMillian: 1956-2006</a></li>
+            <li role="presentation"><a href="black-artists.php">Black Artists' Group: 1968-1972</a></li>
           </ul>
         </div>
 

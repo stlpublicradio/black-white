@@ -1,7 +1,7 @@
 <!doctype html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
-  <title>Dred Scott Backstory</title>
+  <title>Racial Cleansing</title>
 <?php include($_SERVER['DOCUMENT_ROOT'].'/includes/bw-head-embed.php');?>
 </head>
 
@@ -15,22 +15,22 @@
       <li><a href="https://stlpr.org">Home </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
       <li><a href="https://news.stlpublicradio.org/programs">Programs </a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
       <li><a href="index.php">St. Louis History in Black &amp; White</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
-      <li><a href="people.php">People</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
-      <li class="active">Dred Scott Backstory</li>
+      <li><a href="experiences.php">Experiences</a><i class="fa fa-chevron-right" aria-hidden="true"></i></li>
+      <li class="active">Racial Cleansing</li>
     </ol>
 
     <div class="col-md-12">
-      <h1>Dred and Harriet Scott Backstory <br class="hidden-sm hidden-md hidden-lg hidden-xl"><span class="date">1857-2010</span></h1>
+      <h1>Racial Cleansing <span class="date"></span></h1>
     </div>
 
     <div class="col-md-8">
-      <p class="top">There is a backstory to the Dred Scott decision. New information reveals that Harriet Scott, who was involved in the original suit for freedom with her husband, lived for a decade after the Civil War. The Scotts had two children. Eliza and Lizzie were given the protection of anonymity during the fractious period in which the Scotts sought emancipation. Genealogist Ruth Ann Hager of the St. Louis County Library did the research, which is outlined in her book <em><a href="http://www.amazon.com/Dred-Harriet-Scott-Their-Family/dp/0615327621">Dred and Harriet Scott: Their Family Story</a></em>.</p>
-      <p>Contributors: <strong>Ruth Ann Hager</strong></p>
-      <p>Originally aired February 3, 2010</p>
+      <p class="top">It may come as a surprise to many in white America that ethnic cleansing is not particular to Nazi Germany, Rwanda, or Bosnia. American history shows that many communities here are guilty of it too. These communities banished their black citizens&mdash;often violently. Many of these communities remain virtually all white to this day. Brothers Charles and James Brown traced their family tree to Pierce City, Missouri, and learned that their ancestors had been forced out at gunpoint. Marco Williams produced a documentary titled <i><a href="http://www.imdb.com/title/tt0912574/">Banished: How Whites Drove Blacks out of Town in America</a></i>.</p>
+      <p>Contributors: <strong>Marco Williams</strong>, <strong>Charles Brown</strong>, and <strong>James Brown</strong></p>
+      <p>Originally aired October 22, 2007</p>
     </div>
 
     <div class="col-md-4 soundcloud-iframe">
-      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201295064&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+      <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201295059&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
     </div>
   </div>
   <hr>
@@ -43,22 +43,22 @@
     <div class="col-md-12">
       <div class="col-sm-6 bw-photos">
         <h3>Images</h3>
-        <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21486668@N03/albums/72157671148891896" title="Dred Scott Backstory"><img src="https://c2.staticflickr.com/8/7468/28397510745_f357b8a4f4_o.jpg" width="250" height="205" alt="Dred Scott Backstory"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        <a data-flickr-embed="true"  href="https://www.flickr.com/photos/21486668@N03/albums/72157672535885865" title="Racial Cleansing"><img src="https://c8.staticflickr.com/9/8567/28397594895_5c18dbbc0f_o.jpg" width="244" height="182" alt="Racial Cleansing"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
       </div>
 
       <div class="col-sm-6">
-        <h3>Links</h3>
+        <h3>Videos</h3>
         <ul style="padding-bottom:20px;" class="top">
-          <li><a href="http://www.sos.mo.gov/archives/resources/africanamerican/scott/scott.asp" target="_blank">Expanded Scott history</a></li>
-          <li><a href="http://www.thedredscottfoundation.org/dshf/index.php?option=com_content&view=article&id=131:raaward&catid=42:press-releases&Itemid=97" target="_blank">Ruth Ann Hager wins award</a></li>
+          <li><a href="http://www.pbs.org/independentlens/banished/">Banished: American Ethnic Cleansings</a></li>
+          <li><a href="http://www.youtube.com/watch?v=dJbit6rTgws">Independent Lens: America's Ethnic Cleansing Preview</a></li>
         </ul>
       </div>
     </div>
 
     <div class="col-md-12 top" style="clear:both;">
       <div class="col-md-3 top nav-sets hidden-xs">
-        <span title="Previous Story"><h3 class="hidden-sm"><a href="dredscott.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h3></span>
-        <span title="Previous Story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="dredscott.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h4></span>
+        <span title="Previous Story"><h3 class="hidden-sm"><a href="sundown-towns.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h3></span>
+        <span title="Previous Story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="sundown-towns.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h4></span>
       </div>
 
       <div class="col-md-6 col-sm-6 top">
@@ -69,24 +69,23 @@
           </div>
         </div>
       </div>
+    <div class="col-md-3 top nav-right hidden-xs">
+      <span title="Next Story"><h3 class="hidden-sm"><a href="race-riot.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h3></span>
+      <span title="Next story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="race-riot.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h4></span>
+    </div>
 
-      <div class="col-md-3 top nav-right hidden-xs">
-        <span title="Next Story"><h3 class="hidden-sm"><a href="exodusters.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h3></span>
-        <span title="Next story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="exodusters.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h4></span>
+    <div class="chevron-container">
+      <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:left;">
+        <br>
+        <span title="Previous Story"><a href="sundown-towns.php"><i class="fa fa-chevron-left fa-3x" style="color:#ccc; padding-left:30px;"></i></a></span>
       </div>
 
-      <div class="chevron-container">
-        <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:left;">
-          <br>
-          <span title="Previous Story"><a href="dredscott.php"><i class="fa fa-chevron-left fa-3x" style="color:#ccc; padding-left:30px;"></i></a></span>
-        </div>
-
-        <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:right;">
-          <br>
-          <span title="Next Story"><a href="exodusters.php"><i class="fa fa-chevron-right fa-3x" style="color:#ccc; padding-right:30px;"></i></a></span>
-        </div>
+      <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:right;">
+        <br>
+        <span title="Next Story"><a href="race-riot.php"><i class="fa fa-chevron-right fa-3x" style="color:#ccc; padding-right:30px;"></i></a></span>
       </div>
     </div>
+  </div>
   </div>
   <hr>
 </main>

@@ -64,8 +64,8 @@
 
     <div class="col-md-12 top" style="clear:both;">
       <div class="col-md-3 top nav-sets hidden-xs">
-        <span title="Previous Story"><h3 class="hidden-sm"><a href="scottbackstory.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h3></span>
-        <span title="Previous Story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="scottbackstory.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h4></span>
+        <span title="Previous Story"><h3 class="hidden-sm"><a href="scott-backstory.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h3></span>
+        <span title="Previous Story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="scott-backstory.php"><i class="fa fa-chevron-left fa-lg" aria-label="Click for previous episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i> Previous Story</a></h4></span>
       </div>
 
       <div class="col-md-6 col-sm-6 top">
@@ -78,19 +78,19 @@
       </div>
 
       <div class="col-md-3 top nav-right hidden-xs">
-        <span title="Next Story"><h3 class="hidden-sm"><a href="sundowntowns.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h3></span>
-        <span title="Next story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="sundowntowns.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h4></span>
+        <span title="Next Story"><h3 class="hidden-sm"><a href="sundown-towns.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h3></span>
+        <span title="Next story"><h4 class="hidden-md hidden-lg hidden-xl"><a href="sundown-towns.php">Next Story <i class="fa fa-chevron-right fa-lg" aria-label="Click for next episode" style="color:#ccc; padding-left:.25em; padding-right:.25em;"></i></a></h4></span>
       </div>
 
       <div class="chevron-container">
         <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:left;">
           <br>
-          <span title="Previous Story"><a href="scottbackstory.php"><i class="fa fa-chevron-left fa-3x" style="color:#ccc; padding-left:30px;"></i></a></span>
+          <span title="Previous Story"><a href="scott-backstory.php"><i class="fa fa-chevron-left fa-3x" style="color:#ccc; padding-left:30px;"></i></a></span>
         </div>
 
         <div class="col-md-3 hidden-lg hidden-xl hidden-md hidden-sm top" style="float:right;">
           <br>
-          <span title="Next Story"><a href="sundowntowns.php"><i class="fa fa-chevron-right fa-3x" style="color:#ccc; padding-right:30px;"></i></a></span>
+          <span title="Next Story"><a href="sundown-towns.php"><i class="fa fa-chevron-right fa-3x" style="color:#ccc; padding-right:30px;"></i></a></span>
         </div>
       </div>
     </div>
