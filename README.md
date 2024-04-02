@@ -6,7 +6,7 @@ This project was composed in 2016 by Kae Petrin, with stories by Don Marsh and p
 
 ### Audio Elements
 
-All Audio is hosted on [an album on SoundCloud](https://soundcloud.com/st-louis-public-radio/sets/st-louis-history-in-black-white).
+Audio Elements used to be hosted on [an album on SoundCloud](https://soundcloud.com/st-louis-public-radio/sets/st-louis-history-in-black-white).
 
 Audo for each article is as follows:
 
