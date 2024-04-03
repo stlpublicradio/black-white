@@ -131,7 +131,7 @@ audio[disabled] {
 }
 
 #stlbw-header {
-  background-image: url("../images/banner-large-screens.png");
+  background-image: url("../assets/images/banner-large-screens.png");
   background-color: #D8D8D8;
   background-repeat: no-repeat;
   background-position: center top 32px;
@@ -141,7 +141,7 @@ audio[disabled] {
 
 @media (max-width: 767px) {
   #stlbw-header {
-    background-image: url("../images/banner-small-screens.png");
+    background-image: url("../assets/images/banner-small-screens.png");
     background-position: center top 32px;
   }
 }
