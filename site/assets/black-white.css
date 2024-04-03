@@ -25,6 +25,11 @@ h1 {
   clear:both;
 }
 
+audio[disabled] {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 
 /* General Classes */
 
